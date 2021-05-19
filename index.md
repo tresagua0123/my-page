@@ -1,8 +1,7 @@
 ## About Kaito Murata 
 
-You can use the [editor on GitHub](https://github.com/tresagua0123/my-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+私のことをご存じない方のために、簡単に私の経歴について説明させてください。
+私は、山口県山口県育ち。大学は九州大学に進学し、生物情報科学を学びました。
 
 ### Markdown
 
