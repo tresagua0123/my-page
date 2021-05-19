@@ -23,7 +23,12 @@ https://cafenavi.herokuapp.com/
 
 ### 職務経歴
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tresagua0123/my-page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+・2019年10月 - 2020年2月
+
+アシスタントエンジニア @株式会社エニセンス
+
+- MyAppsシリーズと呼ばれる自社スマホアプリサービスのグロースのため、KPIを立ててSNS運営など経験しました。
+- 恋愛メディア「boy .」のグロースのため、企画を考えたり、インターンや読者モデルの採用に関わってきました。
 
 ### Support or Contact
 
