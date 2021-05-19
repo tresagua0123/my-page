@@ -5,9 +5,9 @@
 
 ### 経験技術
 
-特に実務で使ってきた技術: HTML/CSS, JavaScript/TypeScript, React.js
+ 今まで、実務や趣味含め触れてきた言語は以下の通りです。
 
-その他趣味で使ってきた技術: Ruby on Rails, Next.js
+HTML/CSS, JavaScript/TypeScript, React.js, Next.js, Ruby on Rails
 
 Ruby on RailsとNextについては以下のようなアプリを作ってきました。
 
