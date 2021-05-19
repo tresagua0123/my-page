@@ -27,9 +27,15 @@ https://cafenavi.herokuapp.com/
 
 アシスタントエンジニア @株式会社エニセンス
 
-- MyAppsシリーズと呼ばれる自社スマホアプリサービスのグロースのため、KPIを立ててSNS運営など経験しました。
+- MyAppsシリーズと呼ばれる自社スマホアプリサービスのグロースを行い、アプリの認知度を高めました。
 - 恋愛メディア「boy .」のグロースのため、企画を考えたり、インターンや読者モデルの採用に関わってきました。
 
-### Support or Contact
+・2020年4月 - 現在
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Webエンジニア @株式会社オープンエイト
+
+- InsightBRAINと呼ばれるSNS分析ツールのフロントエンド面での運用保守、機能追加、テストを行ってきました。
+
+- 新規開発部門にて、技術の調査や実装などを行い、フロントエンド面での新規開発を行ってきました。
+
+- VideoBRAINと呼ばれる動画作成ツールのフロントエンド面での運用保守、機能追加を行ってきました。
