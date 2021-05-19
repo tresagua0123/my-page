@@ -14,8 +14,12 @@ Ruby on RailsとNextについては以下のようなアプリを作ってきま
 ・クイズメーカー
 https://next-quiz-maker.vercel.app/yamaguchi
 
+(next.jsに触れてみたかったので、最近作りました。)
+
 ・カフェナビ
 https://cafenavi.herokuapp.com/
+
+(学生時代にRuby on Railsの勉強のために作ったアプリです。)
 
 ### 職務経歴
 
