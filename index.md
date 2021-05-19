@@ -6,12 +6,14 @@
 ### 経験技術
 
 特に実務で使ってきた技術: HTML/CSS, JavaScript/TypeScript, React.js
+
 その他趣味で使ってきた技術: Ruby on Rails, Next.js
 
 Ruby on RailsとNextについては以下のようなアプリを作ってきました。
 
 ・クイズメーカー
 https://next-quiz-maker.vercel.app/yamaguchi
+
 ・カフェナビ
 https://cafenavi.herokuapp.com/
 
