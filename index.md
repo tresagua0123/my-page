@@ -11,13 +11,11 @@ HTML/CSS, JavaScript/TypeScript, React.js, Next.js, Ruby on Rails
 
 Ruby on RailsとNextについては以下のようなアプリを作ってきました。
 
-・クイズメーカー
-https://next-quiz-maker.vercel.app/yamaguchi
+・[クイズメーカー](https://next-quiz-maker.vercel.app/yamaguchi)
 
 (next.jsに触れてみたかったので、最近作りました。)
 
-・カフェナビ
-https://cafenavi.herokuapp.com/
+・[カフェナビ](https://cafenavi.herokuapp.com/)
 
 (学生時代にRuby on Railsの勉強のために作ったアプリです。)
 
