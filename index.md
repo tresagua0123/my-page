@@ -7,11 +7,16 @@
 大学では、九大総長賞である山川賞、また住友商事奨学金より助成いただき、九大だけでなくアメリカのイリノイ大学で一年間交換留学生として学びました。
 そのため英語(TOEIC915)とスペイン語(DELEB2級)を同じレベルで話すことが可能です。
 
+研究では、C言語を用いたバイオデータ解析を主にやっていましたが、
+知り合いの社長様からWebサイト運用のお仕事をいただき、HTMLからWebの世界へダイブし、
+その後Web企業でのインターンを経てWeb系エンジニアに興味を持ちRuby on Railsを用いて簡易サイトを自作。
+そのまま新卒でWebアプリ開発企業にてエンジニアとして働いてきました。
+
 ### 経験技術
 
  今まで、実務や趣味含め触れてきた言語は以下の通りです。
 
-HTML/CSS, JavaScript/TypeScript, React.js, Next.js, Ruby on Rails
+HTML/CSS, C言語, JavaScript/TypeScript, React.js, Next.js, Ruby on Rails
 
 Ruby on RailsとNextについては以下のようなアプリを作ってきました。
 
@@ -21,7 +26,7 @@ Ruby on RailsとNextについては以下のようなアプリを作ってきま
 
 ・[カフェナビ](https://cafenavi.herokuapp.com/)
 
-(学生時代にRuby on Railsの勉強のために作ったアプリです。)
+(学生時代に学んだRuby on Railsのアウトプットとして作成しました。)
 
 ### 職務経歴
 
