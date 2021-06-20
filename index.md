@@ -4,8 +4,8 @@
 私(Kaito Murata)は、山口県生まれの山口県育ち。
 大学は九州大学に進学、専攻決めでは生物情報科学を選び、情報分野について多くのことを学びました。
 
-大学では、九大総長賞である(山川賞)[https://kikin.kyushu-u.ac.jp/outline/view.php?cId=916&division=1]、また住友商事奨学金[http://usjapantomodachi.org/ja/programs-activities/tomodachi-sumitomo-corporation-scholarship-fund/]より助成いただき、アメリカのイリノイ大学で一年間交換留学生として学ぶ。
-そのため、英語(TOEIC915)とスペイン語(DELEB2級)を話すことが可能です。
+大学では、九大総長賞である山川賞、また住友商事奨学金より助成いただき、アメリカのイリノイ大学で一年間交換留学生として学ぶ。
+そのため英語(TOEIC915)とスペイン語(DELEB2級)を同じレベルで話すことが可能です。
 
 ### 経験技術
 
